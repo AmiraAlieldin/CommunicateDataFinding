@@ -3,7 +3,8 @@
 
 This work on this project is divided in two main parts. For the first part, I will apply an exploratory data analysis on Ford GoBike System Data Flights dataset. I will use Python and data visualization libraries to investigate and extract all the dataset's variables and information, . The analysis in this section will be conducted as following:
 
-1)The first section will be all about univariate exploration 2) The second one will be all about investigating multivariate's relationships u
+ 1.The first section will be all about univariate exploration .
+ 2.The second one will be all about investigating multivariate's relationships.
 
 In the second part, I will pick  my major findings from my exploration and carry my output  to others through an explanatory analysis. At the end , I will create a slide deck that will be polished then i will be able to use my explanatory visualizations to communicate with  my results. This second part of the project will be very useful in my conclusion
 ###### Step 1: Choose the Dataset
