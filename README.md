@@ -6,7 +6,7 @@ This work on this project is divided in two main parts. For the first part, I wi
 1)The first section will be all about univariate exploration 2) The second one will be all about investigating multivariate's relationships u
 
 In the second part, I will pick  my major findings from my exploration and carry my output  to others through an explanatory analysis. At the end , I will create a slide deck that will be polished then i will be able to use my explanatory visualizations to communicate with  my results. This second part of the project will be very useful in my conclusion
-###### Step 1.1: Choose the Dataset
+###### Step 1: Choose the Dataset
 
 I choose Ford GoBike bike ride data from 2019/02 for my project. The data was downloaded from this website  https://www.fordgobike.com/system-data. Ford GoBike is the Bay Area's new bike share system, with thousands of public bikes for use across San Francisco, East Bay and San Jose.
 
